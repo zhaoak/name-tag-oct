@@ -33,3 +33,30 @@ header .logo {
 main {
     padding: 20px;
 }
+
+.nameTag {
+    height: 200px;
+    width: 350px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.nameTagLabel {
+    background-color: rgb(211, 65, 65);
+    color: white;
+}
+
+.nameTagText {
+    text-align: center;
+}
+
+.inputForm {
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+}
+
+#name-output {
+    color: black;
+    font-size: x-large;
+}
