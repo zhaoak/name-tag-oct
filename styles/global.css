@@ -55,3 +55,8 @@ main {
     width: auto;
     margin: 0 auto;
 }
+
+#name-output {
+    color: black;
+    font-size: x-large;
+}
